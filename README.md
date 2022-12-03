@@ -1,4 +1,4 @@
-<h1>DESCRIPTION</h1><br/>
+<h1>TESLA CLONE</h1><br/>
 A Clone of Tesla's Website Created using React and Styled Components.
 
 <br/>
